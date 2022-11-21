@@ -1,0 +1,14 @@
+{
+    "imports": {
+        "@deps": "./deps.ts",
+        "@types": "./src/types.ts",
+        "@app": "./src/app.ts",
+        "@middlewares/": "./src/middlewares/",
+        "@controllers/": "./src/controllers/",
+        "@services/": "./src/services/",
+        "@models/": "./src/models/",
+        "@routers/": "./src/routers/",
+        "@utils/": "./src/utils/",
+        "@testDeps": "./tests/test.deps.ts"
+    }
+}
