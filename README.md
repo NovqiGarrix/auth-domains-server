@@ -1,4 +1,7 @@
-# HTTP Server Boiler Plate
+# Build Authentication System With Different Domains using Nextjs & Deno
 
-## Deno HTTP Server
-Use this to get started for your next HTTP Server in Deno
+## Server Code
+This is the server or backend repository of the article.
+
+For more info:
+https://link.medium.com/3wYYNj8L8ub
